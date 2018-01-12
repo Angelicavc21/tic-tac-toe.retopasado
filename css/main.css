@@ -7,8 +7,8 @@
     font-weight: bold;
   }
   .boton{
-    border-color: yellow;
-    background-color: red;
+    border-color: rgb(170, 0, 255);
+    background-color: rgb(170, 0, 255);
     padding:  20px 55px 20px 55px;
     font-size: 40px;
     font-family: comic;
@@ -19,7 +19,7 @@
 
   height:  50px;
   width:   50px;
-  background-color: #27b232;
+  background-color: #b1b1b1;
 
 
 }
@@ -29,7 +29,7 @@
   /*MARCO */
   .table{
       border-style: solid;
-      border-color: #b5b598;
+      border-color: #c9c931;
       border-width: 2px;
       text-align: center;
       background-color: #c8d14f;
@@ -48,12 +48,12 @@
     }
     /* title */
     h1{
-      color: #576d59;
+      color: #07fc1b;
       font-size: 40px;
     }
     /*letters */
     #message{
-      color:#84846b;
+      color:#e6e656;
       font-size: 30px;
       font-family: fantasy;
     }
