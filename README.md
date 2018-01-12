@@ -10,10 +10,16 @@ La aplicación simula al conocido juego tic tac toe, donde existen dos jugadores
 - Si no ganó el sistema debe validar que ya no existan más casillas disponibles, 
       en caso ya no hayan más casillas el sistema debe mostrar una alerta que diga “Es un empate” 
 - El sistema debe realizar realizar los pasos 3,4,5 Debe existir además un botón que refrefrfwsefvdiga 
-      “Nuevo Juego” que permita volver al estado inicial del proyecto.
+“Nuevo Juego” que permita volver al estado inicial del proyecto.
       
+## Usted lo puede visualisar así
+
+![Sin titulo](assets/images/scream.png)
+
  ## Desarrollado con:
+ 
 `HTML5` `CSS3` `JavaScript`
-      
+
+
 
 
