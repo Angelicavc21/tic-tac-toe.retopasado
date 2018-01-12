@@ -13,7 +13,7 @@ La aplicación simula al conocido juego tic tac toe, donde existen dos jugadores
       “Nuevo Juego” que permita volver al estado inicial del proyecto.
       
  ## Desarrollado con:
-´HTML5 CSS3 JavaScript´
+`HTML5` `CSS3` `JavaScript`
       
 
 
